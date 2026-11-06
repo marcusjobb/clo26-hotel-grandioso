@@ -1,0 +1,13 @@
+# C# / .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Hemligheter: connectionstrings och lösenord ska INTE in i koden
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
